@@ -17,7 +17,7 @@
                 return;
             }
 
-            // Calcular el precio con descuento
+            // Calcular el precio con descuento, HOLAAAA MUNDOOOOO
             var precioConDescuento = precio - (precio * descuento / 100);
 
             // Mostrar los resultados
